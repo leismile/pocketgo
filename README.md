@@ -12,7 +12,6 @@
 |Battery  |3.7V 1000mA                                    |
 |Dimension|123mm x 56mm x 14mm                            |
 |Weight   |100g                                           |
-|Others   |Vibrator                                       |
   
 ### https://steward-fu.github.io/website/index.htm
 
